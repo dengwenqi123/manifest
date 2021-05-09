@@ -5,5 +5,5 @@
     <default remote="origin" sync-j="4" revision="master" />
 
     <project name="linux_app" path="app" />
-    <project name="linxu_driver" path="driver"/>
+    <project name="linux_driver" path="driver"/>
 </manifest>
