@@ -2,7 +2,7 @@
 <manifest>
     <remote fetch="https://github.com/dengwenqi123" name="origin"/>
 
-    <default remote="origin" sync-j="4" revision="master" />
+    <default remote="origin" sync-j="4" revision="main" />
 
     <project name="linux_app" path="app" />
     <project name="linux_driver" path="driver"/>
